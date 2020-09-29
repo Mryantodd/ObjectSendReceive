@@ -1,0 +1,20 @@
+C:\Users\Mtodd\source\repos\ObjectStream example\bin\Debug\Common.dll
+C:\Users\Mtodd\source\repos\ObjectStream example\bin\Debug\Common.pdb
+C:\Users\Mtodd\source\repos\ObjectStream example\obj\Debug\ObjectSender.csprojAssemblyReference.cache
+C:\Users\Mtodd\source\repos\ObjectStream example\obj\Debug\ObjectSender.csproj.CoreCompileInputs.cache
+C:\Users\Mtodd\source\repos\ObjectStream example\obj\Debug\ObjectSender.csproj.CopyComplete
+C:\Users\Mtodd\source\repos\ObjectStream example\bin\Debug\ObjectSender.exe.config
+C:\Users\Mtodd\source\repos\ObjectStream example\bin\Debug\ObjectSender.exe
+C:\Users\Mtodd\source\repos\ObjectStream example\bin\Debug\ObjectSender.pdb
+C:\Users\Mtodd\source\repos\ObjectStream example\obj\Debug\ObjectSender.exe
+C:\Users\Mtodd\source\repos\ObjectStream example\obj\Debug\ObjectSender.pdb
+C:\Users\Mtodd\source\repos\ObjectSendReceive\ObjectSender\bin\Debug\ObjectSender.exe.config
+C:\Users\Mtodd\source\repos\ObjectSendReceive\ObjectSender\bin\Debug\ObjectSender.exe
+C:\Users\Mtodd\source\repos\ObjectSendReceive\ObjectSender\bin\Debug\ObjectSender.pdb
+C:\Users\Mtodd\source\repos\ObjectSendReceive\ObjectSender\bin\Debug\Common.dll
+C:\Users\Mtodd\source\repos\ObjectSendReceive\ObjectSender\bin\Debug\Common.pdb
+C:\Users\Mtodd\source\repos\ObjectSendReceive\ObjectSender\obj\Debug\ObjectSender.csprojAssemblyReference.cache
+C:\Users\Mtodd\source\repos\ObjectSendReceive\ObjectSender\obj\Debug\ObjectSender.csproj.CoreCompileInputs.cache
+C:\Users\Mtodd\source\repos\ObjectSendReceive\ObjectSender\obj\Debug\ObjectSender.csproj.CopyComplete
+C:\Users\Mtodd\source\repos\ObjectSendReceive\ObjectSender\obj\Debug\ObjectSender.exe
+C:\Users\Mtodd\source\repos\ObjectSendReceive\ObjectSender\obj\Debug\ObjectSender.pdb

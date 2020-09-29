@@ -1,0 +1,7 @@
+C:\Users\Mtodd\source\repos\ObjectStream example\bin\Debug\ObjectStream example.exe.config
+C:\Users\Mtodd\source\repos\ObjectStream example\bin\Debug\ObjectStream example.exe
+C:\Users\Mtodd\source\repos\ObjectStream example\bin\Debug\ObjectStream example.pdb
+C:\Users\Mtodd\source\repos\ObjectStream example\obj\Debug\ObjectStream example.csprojAssemblyReference.cache
+C:\Users\Mtodd\source\repos\ObjectStream example\obj\Debug\ObjectStream example.csproj.CoreCompileInputs.cache
+C:\Users\Mtodd\source\repos\ObjectStream example\obj\Debug\ObjectStream example.exe
+C:\Users\Mtodd\source\repos\ObjectStream example\obj\Debug\ObjectStream example.pdb

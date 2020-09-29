@@ -1,0 +1,10 @@
+C:\Users\Mtodd\source\repos\ObjectStreamClient\bin\Debug\ObjectStreamClient.exe.config
+C:\Users\Mtodd\source\repos\ObjectStreamClient\bin\Debug\ObjectStreamClient.exe
+C:\Users\Mtodd\source\repos\ObjectStreamClient\bin\Debug\ObjectStreamClient.pdb
+C:\Users\Mtodd\source\repos\ObjectStreamClient\obj\Debug\ObjectStreamClient.csproj.CoreCompileInputs.cache
+C:\Users\Mtodd\source\repos\ObjectStreamClient\obj\Debug\ObjectStreamClient.exe
+C:\Users\Mtodd\source\repos\ObjectStreamClient\obj\Debug\ObjectStreamClient.pdb
+C:\Users\Mtodd\source\repos\ObjectStreamClient\bin\Debug\Common.dll
+C:\Users\Mtodd\source\repos\ObjectStreamClient\bin\Debug\Common.pdb
+C:\Users\Mtodd\source\repos\ObjectStreamClient\obj\Debug\ObjectStreamClient.csprojAssemblyReference.cache
+C:\Users\Mtodd\source\repos\ObjectStreamClient\obj\Debug\ObjectStreamClient.csproj.CopyComplete
